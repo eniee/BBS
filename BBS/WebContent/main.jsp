@@ -73,7 +73,7 @@
 	<div class="container">
 		<div class="jumbotron">
 			<div class="container">
-				<h1>웹사이트 소개</h1>
+				<h1>gitgit웹사이트 소개</h1>
 				<p>이사이트는 테스트 교육용으로 제작되었습니다.</p>
 				<p><a class="btn btn-primary btn-pull" href="#" role="button">빈 버튼임</a></p>				
 			</div>
