@@ -7,7 +7,7 @@
 <meta name="viewpoint" content="width=device-width", initial-scale="1">
 <link rel="stylesheet" href="css/bootstrap.css">
 <link rel="stylesheet" href="css/custom.css">
-<title>JSP 게시판 웹사이트 </title>
+<title>JSP git게시판 웹사이트 </title>
 </head>
 <body>
 	<nav class="navbar navbar-default">
